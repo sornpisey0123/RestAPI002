@@ -17,6 +17,4 @@ import java.util.List;
 public class AttendeeRequest {
      private String attendeeName;
      private String email;
-
-
 }
